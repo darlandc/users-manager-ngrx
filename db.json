@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Lorem Silva",
+      "profile": "admin"
+    },
+    {
+      "id": 1,
+      "name": "Ipsum Silva",
+      "profile": "analyst"
+    },
+    {
+      "id": 0,
+      "name": "Dolores Silva",
+      "profile": "analyst"
+    }
+  ]
+}
